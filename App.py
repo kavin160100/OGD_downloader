@@ -93,7 +93,7 @@ class MyApp(Searcher):
         lbl.place(x=420,y=400)
 
 root = Tk()
-path_to_save = 'C:/Users/Kavin/Downloads/'
+path_to_save = 'C:/Users/Kavin/Downloads/'  #change the path
 my_gui = MyApp(root,path_to_save)
 root.geometry("1080x620")
 root.mainloop()
