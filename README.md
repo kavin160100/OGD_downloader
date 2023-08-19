@@ -6,3 +6,5 @@ The Objective of Open Government Data Platform India is to facilitate the access
 Data.gov.in hosts an array of government data spanning diverse sectors like census, agriculture, finance, defense, education, pollution and more.
 
 The datagov_key.py uses a sample API token which will return a maximum of 10 records at a time. The API Key can be availed from data.gov.in. After Registration, the API Key can be generated from the Dashboard-> My Account menu.
+
+Run the App.py and search using any keyword.
