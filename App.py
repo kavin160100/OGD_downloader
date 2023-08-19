@@ -5,7 +5,7 @@
 
 import requests
 import pandas as pd
-from Downloads.datagov_key import Searcher
+from .datagov_key import Searcher
 
 import tkinter as tk
 from tkinter import *
